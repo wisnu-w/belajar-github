@@ -79,5 +79,5 @@ app.get('/gif', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server berjsasasaalan di http://localhost:${port}`);
+    console.log(`Server berjsasasassalan di http://localhost:${port}`);
 });
