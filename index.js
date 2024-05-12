@@ -79,5 +79,9 @@ app.get('/gif', (req, res) => {
 });
 
 app.listen(port, () => {
+<<<<<<< HEAD
     console.log(`Server berjsasasassalan di http://localhost:${port}`);
+=======
+    console.log(`Server ini futur baru di http://localhost:${port}`);
+>>>>>>> addfiture1
 });
